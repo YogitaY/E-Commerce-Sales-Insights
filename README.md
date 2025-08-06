@@ -1,2 +1,65 @@
-# E-Commerce-Sales-Insights
-Sales dashboard project with Power BI, Python &amp; SQL
+# Superstore Sales Dashboard 📈
+
+This Power BI dashboard provides insights into sales performance across different regions, categories, and customer segments using the Superstore dataset.
+
+---
+
+## 🧩 Features
+
+- Interactive visualizations for Sales, Profit, Quantity, and Discount
+- Drill-down reports by Region, Category, and Sub-Category
+- Dynamic filters for Order Date and Customer Segments
+- KPI indicators for performance tracking
+
+---
+
+## 🛠 Tools & Technologies
+
+- Power BI Desktop
+- Microsoft Excel (Data Source)
+- DAX (Data Analysis Expressions)
+- Data Modeling
+
+---
+
+## 📷 Dashboard Preview
+
+![Superstore Dashboard Screenshot](./images/superstore-dashboard.png)
+
+> _Tip: Replace the image with a screenshot of your own dashboard. Create a folder `images` and add your `.png` or `.jpg` there._
+
+---
+
+## 📁 How to Open This Project
+
+1. Download or clone this repository.
+2. Open the `.pbix` file using **Power BI Desktop**.
+3. Make sure the data source paths are updated if the data is external.
+
+---
+
+## 📂 Files Included
+
+- `Superstore_Dashboard.pbix` – Power BI report file
+- `README.md` – Project documentation
+- `images/` – Folder containing dashboard screenshot(s)
+
+---
+
+## 📌 About the Dataset
+
+This dashboard is built using the [Sample Superstore Dataset](https://community.tableau.com/s/question/0D54T00000CWe1rSAD/sample-superstore-data).
+
+---
+
+## 🙋‍♀️ Author
+
+**Yogita Hindlekar**  
+Aspiring Data Analyst  
+[LinkedIn Profile](https://www.linkedin.com/in/your-profile) _(update link)_
+
+---
+
+## ⭐️ Star this repo if you like it!
+
+
