@@ -17,8 +17,8 @@ This Power BI dashboard provides insights into sales performance across differen
 
 - Power BI Desktop
 - Microsoft Excel (Data Source)
-- DAX (Data Analysis Expressions)
-- Data Modeling
+- Python EDA
+- SqLite
 
 ---
 
@@ -26,7 +26,6 @@ This Power BI dashboard provides insights into sales performance across differen
 
 ![Superstore Dashboard Screenshot](https://github.com/YogitaY/E-Commerce-Sales-Insights/blob/main/E-Commerce-Sales-Insights/dashboard/sales_dashboard.png)
 
-> _Tip: Replace the image with a screenshot of your own dashboard. Create a folder `images` and add your `.png` or `.jpg` there._
 
 ---
 
@@ -40,9 +39,9 @@ This Power BI dashboard provides insights into sales performance across differen
 
 ## 📂 Files Included
 
-- `Superstore_Dashboard.pbix` – Power BI report file
+- `sales_dashboard.pbix` – Power BI report file
 - `README.md` – Project documentation
-- `images/` – Folder containing dashboard screenshot(s)
+- `dashboard/` – Folder containing dashboard screenshot(s)
 
 ---
 
