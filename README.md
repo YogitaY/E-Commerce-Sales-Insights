@@ -1,4 +1,4 @@
-# 🛒 Superstore Sales Data Analysis
+# 🛒 E-Commerce Sales Data Analysis
 
 This project involves analyzing a US Superstore dataset to uncover business insights, understand trends, and provide actionable recommendations for strategic growth using **Power BI**, **Python**, **Excel**, and **SQL**.
 
@@ -12,7 +12,7 @@ To identify patterns in sales, profit, and discounts across regions, categories,
 
 ## 📁 Dataset
 
-- **Source**: [Superstore Dataset](https://www.kaggle.com/datasets/henrysue/superstore)
+- **Source**: [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 - **Fields include**: Order ID, Product, Category, Sub-Category, Region, Sales, Profit, Discount, Customer, Order Date, etc.
 
 ---
