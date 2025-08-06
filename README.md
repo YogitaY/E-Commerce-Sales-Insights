@@ -24,7 +24,7 @@ This Power BI dashboard provides insights into sales performance across differen
 
 ## 📷 Dashboard Preview
 
-![Superstore Dashboard Screenshot](./images/superstore-dashboard.png)
+![Superstore Dashboard Screenshot](https://github.com/YogitaY/E-Commerce-Sales-Insights/blob/main/E-Commerce-Sales-Insights/dashboard/sales_dashboard.png)
 
 > _Tip: Replace the image with a screenshot of your own dashboard. Create a folder `images` and add your `.png` or `.jpg` there._
 
