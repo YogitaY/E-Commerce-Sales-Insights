@@ -1,6 +1,6 @@
 # 🛒 Superstore Sales Data Analysis
 
-This project involves analyzing a US Superstore dataset to uncover business insights, understand trends, and provide actionable recommendations for strategic growth using **Power BI**,**Python**, **Excel**, and **SQL**.
+This project involves analyzing a US Superstore dataset to uncover business insights, understand trends, and provide actionable recommendations for strategic growth using **Power BI**, **Python**, **Excel**, and **SQL**.
 
 ---
 
