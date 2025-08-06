@@ -20,7 +20,7 @@ To identify patterns in sales, profit, and discounts across regions, categories,
 ## 🛠️ Tools & Technologies Used
 
 - **Power BI** – Interactive dashboards for visual storytelling  
-- **MS Excel** – Data cleaning, pivot analysis  
+- **MS Excel** – Data cleaning 
 - **SQL (SQLite/MySQL)** – Data querying and aggregation
 - **Python**- Exploratory data analysis
 
@@ -31,7 +31,6 @@ To identify patterns in sales, profit, and discounts across regions, categories,
 - Sales trends by region and time
 - Profitability by product category
 - Discount impact on profit
-- Customer behavior and segmentation
 
 ---
 
@@ -58,7 +57,7 @@ To identify patterns in sales, profit, and discounts across regions, categories,
 > Performed in SQLite
 
 1. Top 5 regions by total sales  
-2. Monthly sales trends (using `strftime()` or `MONTH()` in SQL)  
+2. Monthly sales trends   
 3. Most sold product categories  
 4. Customers with highest purchase value  
 
@@ -66,7 +65,7 @@ To identify patterns in sales, profit, and discounts across regions, categories,
 
 ## Superstore Sales Dashboard 📈
 
-This Power BI dashboard provides insights into sales performance across different regions, categories, and customer segments using the Superstore dataset.
+This Power BI dashboard provides insights into sales performance across different regions, categories, and time using the Superstore dataset.
 
 ---
 
@@ -85,6 +84,7 @@ This Power BI dashboard provides insights into sales performance across differen
 
 ---
 
+
 ## 📁 How to Open This Project
 
 1. Download or clone this repository.
@@ -93,13 +93,6 @@ This Power BI dashboard provides insights into sales performance across differen
 
 ---
 
-## 📂 Files Included
-
-- `sales_dashboard.pbix` – Power BI report file
-- `README.md` – Project documentation
-- `dashboard/` – Folder containing dashboard screenshot(s)
-
----
 
 ## 🤝 Acknowledgments
 
