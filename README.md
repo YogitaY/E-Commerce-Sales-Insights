@@ -1,4 +1,70 @@
-# Superstore Sales Dashboard 📈
+# 🛒 Superstore Sales Data Analysis
+
+This project involves analyzing a US Superstore dataset to uncover business insights, understand trends, and provide actionable recommendations for strategic growth using **Power BI**, **Excel**, and **SQL**.
+
+---
+
+## 📌 Project Objective
+
+To identify patterns in sales, profit, and discounts across regions, categories, and time to help the business make data-driven decisions that increase profitability and operational efficiency.
+
+---
+
+## 📁 Dataset
+
+- **Source**: [Superstore Dataset](https://www.kaggle.com/datasets/henrysue/superstore)
+- **Fields include**: Order ID, Product, Category, Sub-Category, Region, Sales, Profit, Discount, Customer, Order Date, etc.
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+- **Power BI** – Interactive dashboards for visual storytelling  
+- **MS Excel** – Data cleaning, pivot analysis  
+- **SQL (SQLite/MySQL)** – Data querying and aggregation
+- **Python**- Exploratory data analysis
+
+---
+
+## 🔍 Key Focus Areas
+
+- Sales trends by region and time
+- Profitability by product category
+- Discount impact on profit
+- Customer behavior and segmentation
+
+---
+
+## 📊 Key Insights
+
+- 📉 **Negative correlation** between discount and profit.
+- 💰 **Technology** category yields the **highest margins**.
+- 💸 **Furniture** category often results in **losses**.
+- 🌎 **West** region performs best; **South** region underperforms.
+
+---
+
+## 💡 Recommendations
+
+- ✅ **Review and optimize** discounting strategy to minimize losses, especially in underperforming product categories.
+- 🎯 **Focus marketing** on **high-profit categories** such as **Technology**.
+- 📍 **Improve strategies** in the **South region** for better regional performance.
+- 📦 **Optimize inventory** management for **low-performing sub-categories**.
+
+---
+
+## 🗂️ SQL Analysis Steps
+
+> Performed in SQLite
+
+1. Top 5 regions by total sales  
+2. Monthly sales trends (using `strftime()` or `MONTH()` in SQL)  
+3. Most sold product categories  
+4. Customers with highest purchase value  
+
+---
+
+## Superstore Sales Dashboard 📈
 
 This Power BI dashboard provides insights into sales performance across different regions, categories, and customer segments using the Superstore dataset.
 
@@ -12,16 +78,7 @@ This Power BI dashboard provides insights into sales performance across differen
 
 ---
 
-## 🛠 Tools & Technologies
-
-- Power BI Desktop
-- Microsoft Excel (Data Source)
-- Python EDA
-- SqLite
-
----
-
-## 📷 Dashboard Preview
+## 📷 Power BI Dashboard Preview
 
 ![Superstore Dashboard Screenshot](https://github.com/YogitaY/E-Commerce-Sales-Insights/blob/main/E-Commerce-Sales-Insights/dashboard/sales_dashboard.png)
 
@@ -44,11 +101,21 @@ This Power BI dashboard provides insights into sales performance across differen
 
 ---
 
-## 📌 About the Dataset
+## 🤝 Acknowledgments
 
-This dashboard is built using the [Sample Superstore Dataset](https://github.com/YogitaY/E-Commerce-Sales-Insights/blob/main/E-Commerce-Sales-Insights/dataset/sales_data.csv).
+- Special thanks to [Kaggle](https://www.kaggle.com) for the dataset.
+- Inspired by business intelligence best practices and Power BI community use cases.
 
 ---
+
+## 🧠 Learnings
+
+- Enhanced DAX and visualization skills in Power BI  
+- Practiced writing complex SQL queries for data slicing  
+- Gained hands-on experience delivering actionable business insights
+
+---
+
 
 ## 🙋‍♀️ Author
 
